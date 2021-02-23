@@ -30,7 +30,7 @@ The game's materials uses proprietary shaders from the second said company and d
 ## How's it going?
 
 * Text Assets (100%)
-* Resources (100%
+* Resources (100%)
 * Scripts (45%)
 * Materials (14%)
 * Fonts (100%)
