@@ -17,7 +17,7 @@ The game's materials uses proprietary shaders from the second said company and d
 ## What tools were used?
 
 * uTinyRipper 
-  * Dumping of all game data.
+  * Dumping of all game data as the base project.
 * dnSpy
   * Decompiler for C# assemblies.
 * de4dot
@@ -26,6 +26,17 @@ The game's materials uses proprietary shaders from the second said company and d
   * Decompiler that tends to work better with deobfuscated assemblies when dnSpy doesn't.
 * JetBrains dotPeek
   * Decompiler that tends to work better with assemblies when dnSpy or IlSpy doesn't.
+
+## How's it going?
+
+* Text Assets (100%)
+* Resources (100%
+* Scripts (45%)
+* Materials (14%)
+* Fonts (100%)
+* Meshes (100%)
+* Textures (100%)
+* Shaders (45%)
 
 ## Why did you consider this project?
 
@@ -37,4 +48,4 @@ Angry Birds Heroes sounds like it fits for such a project, supposedly the intern
 
 ## How do I contribute?
 
-Contact me on Discord or Twitter.
+Contact me on Discord or Twitter for whatever you want to contribute for, I will credit you for doing so.
