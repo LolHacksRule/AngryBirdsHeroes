@@ -8,7 +8,7 @@ v1.57 (Android, Google Play, likely similar for iOS/WinPhone8). Versions beyond 
 
 ## Is any original source code used?
 
-No, Rovio Entertainment Ltd/Chimera Entertainment GmbH has the original source code to the game's Unity project and both companies' proprietary libraries while me and contributors do NOT have access to it and will NOT plan to use if so. Best we can use is decompiled C# scripts.
+No, Rovio Entertainment Ltd/Chimera Entertainment GmbH has the original source code to the game's Unity project and both companies' proprietary libraries while me and contributors do NOT have access to it and will NOT plan to use if so. Best we can use is decompiled C# scripts. This project is under fair use.
 
 ## A lot of materials don't work!
 
