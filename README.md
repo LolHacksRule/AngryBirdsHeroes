@@ -40,7 +40,7 @@ The game's materials uses proprietary shaders from the second said company and d
 
 ## Why did you consider this project?
 
-I enjoyed AB Epic as a kid. I wanted a PC release like www.github.com/BP-Innovation/Bad-Piggies-Original did with Bad Piggies, and wanted to get an idea of figuring out the balancing data format.
+I enjoyed AB Epic as a kid. I wanted a PC release like www.github.com/BP-Innovation/Bad-Piggies-Original did with Bad Piggies, and wanted to get an idea of figuring out the balancing data format which is assumably also used for saves.
 
 ## Why this name?
 
