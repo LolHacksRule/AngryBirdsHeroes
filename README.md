@@ -4,7 +4,7 @@ This is an experimental decompilation of Angry Birds Epic into a Unity project f
 
 ## What version?
 
-v1.57 (Android, Google Play, likely similar for iOS/WinPhone8). Versions beyond use il2cpp which is a mess to go through (besides getting this done would help a lot with it from reusing similar assets). It may likely be possible to do older versions.
+v2.0.25241.4080 (Android, Google Play, likely similar for iOS/WinPhone8). Versions beyond use il2cpp which is a mess to go through (besides getting this done would help a lot with it from reusing similar assets). It may likely be possible to do older versions, like v1.5.7.
 
 ## Is any original source code used?
 
