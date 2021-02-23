@@ -37,4 +37,4 @@ Angry Birds Heroes sounds like it fits for such a project, supposedly the intern
 
 ## How do I contribute?
 
-A: Contact me on Discord or Twitter.
+Contact me on Discord or Twitter.
