@@ -37,6 +37,7 @@ The game's materials uses proprietary shaders from the second said company and d
 * Meshes (100%)
 * Textures (100%)
 * Shaders (45%)
+* Scenes (35%)
 
 ## Why did you consider this project?
 
