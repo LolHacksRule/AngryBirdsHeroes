@@ -32,11 +32,11 @@ The game's materials uses proprietary shaders from the second said company and d
 * Text Assets (100%)
 * Resources (100%)
 * Scripts (45%)
-* Materials (14%)
+* Materials (100%)
 * Fonts (100%)
 * Meshes (100%)
 * Textures (100%)
-* Shaders (45%)
+* Shaders (95%)
 * Scenes (35%)
 
 ## Why did you consider this project?
