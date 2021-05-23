@@ -1,6 +1,6 @@
 # AngryBirdsHeroes
 
-This is an experimental decompilation of Angry Birds Epic into a Unity project for building on other platforms, preferably Windows.
+This is an experimental decompilation of Angry Birds Epic into a Unity project for building on other platforms, preferably Windows. The projects of the game are currently NOT PLAYABLE.
 
 ## What version?
 
@@ -37,11 +37,11 @@ The game's materials uses proprietary shaders from the second said company and d
 * Meshes (100%)
 * Textures (100%)
 * Shaders (95%)
-* Scenes (65%)
+* Scenes (99%)
 
 ## Why did you consider this project?
 
-I enjoyed AB Epic as a kid. I wanted a PC release like www.github.com/BP-Innovation/Bad-Piggies-Original did with Bad Piggies, and wanted to get an idea of figuring out the balancing data format which is assumably also used for saves.
+I enjoyed AB Epic as a kid. I wanted a PC release like www.github.com/BP-Innovation/Bad-Piggies-Original did with Bad Piggies, and wanted to get an idea of figuring out the balancing data format which is assumedly also used for saves.
 
 ## Why this name?
 
